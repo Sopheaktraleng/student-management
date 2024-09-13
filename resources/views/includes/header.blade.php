@@ -1,6 +1,6 @@
-<div class="row">
+   <div class="row">
       <div class="col-md-12">
-        <nav class="navbar navbar-light bg-light">
+        <nav class="navbar navbar-light bg-primary">
           <div class="container-fluid">
             <a class="navbar-brand">Student Management</a>
               <form class="d-flex">
