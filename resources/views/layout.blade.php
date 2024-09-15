@@ -77,7 +77,8 @@ div.content {
      <!--contend -->
      <div class="col-md-9">
       <div class="content">
-        @yield('content')
+        <h1>hellooo</h1>
+      @yield("content")
       </div>
 </div>
       <!--contend -->
